@@ -1,0 +1,20 @@
+html {
+  font-size: 1vw;
+}
+
+.wrap {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  border: 0.5px solid blue;
+
+
+
+
+
+
+
